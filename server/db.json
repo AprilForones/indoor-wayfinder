@@ -2,233 +2,137 @@
   "objects": [
     {
       "id": "a1b2",
-      "categoryId": "a191",
-      "name": "MediaMarkt",
-      "desc": "Your go-to spot for the latest in electronics and appliances"
+      "categoryId": "e753",
+      "name": "FrontEntrance",
+      "desc": "The Front entrance is located here and this is where the IT Department is Located."
     },
     {
       "id": "b2c3",
       "categoryId": "e928",
-      "name": "KFC",
-      "desc": "A perfect place for enjoying crispy fried chicken and sides"
+      "name": "CSDL/ITS BLDG",
+      "desc": "The CSDL is located here."
     },
     {
       "id": "c3d4",
       "categoryId": "e928",
-      "name": "McDonald's",
-      "desc": "Classic fast-food chain for burgers, fries, and quick meals"
+      "name": "FVR BLDG",
+      "desc": "Various facilities are located here. refer to building information below for further details."
     },
     {
       "id": "d4e5",
-      "categoryId": "d21e",
-      "name": "Rolex",
-      "desc": "Swiss luxury watches for discerning customers"
+      "categoryId": "e928",
+      "name": "CMA BLDG",
+      "desc": "Building used by CMA Students."
     },
     {
       "id": "e5f6",
-      "categoryId": "d21e",
-      "name": "Louis Vuitton",
-      "desc": "High-end bags, luggage, and accessories"
+      "categoryId": "e928",
+      "name": "BASIC ED BLDG",
+      "desc": "Building used by JR. and SR. Highschool Students."
     },
     {
       "id": "f6g7",
-      "categoryId": "d21e",
-      "name": "Gucci",
-      "desc": " Italian luxury fashion for trendsetters"
+      "categoryId": "e928",
+      "name": "CHS BLDG",
+      "desc": " Used by Medical Students"
     },
     {
       "id": "g7h8",
       "categoryId": "d21e",
-      "name": "Chanel",
-      "desc": "Iconic fashion, fragrance, and accessory collections"
+      "name": "GYMNASIUM",
+      "desc": "School Gymnasium"
     },
     {
       "id": "h8i9",
-      "categoryId": "87b0",
-      "name": "Levi's",
-      "desc": "he classic American denim and casual wear"
+      "categoryId": "17b0",
+      "name": "STUDENT PLAZA",
+      "desc": "Student plaza, where you can buy food and drinks. "
     },
     {
       "id": "i9j0",
-      "categoryId": "58a9",
-      "name": "Mall Office",
-      "desc": "For all your mall inquiries and services"
+      "categoryId": "e928",
+      "name": "Automative Bldg",
+      "desc": "Used for automotive purposes."
     },
     {
       "id": "j0k1",
       "categoryId": "87b0",
-      "name": "Zara",
-      "desc": "Latest trends in apparel and accessories"
+      "name": "NORTH HALL",
+      "desc": "North hall, used by various department of students."
     },
     {
       "id": "k1l2",
-      "categoryId": "a191",
-      "name": "McShark",
-      "desc": "Specializing in Apple products and accessories"
+      "categoryId": "17b0",
+      "name": "VEHICLE PARKING",
+      "desc":"School Parking Lot."
     },
     {
       "id": "l2m3",
-      "categoryId": "87b0",
-      "name": "Nike",
-      "desc": "Global leader in athletic footwear, apparel, and equipmen"
+      "categoryId": "17b0",
+      "name": "PHINMA FOREST",
+      "desc": "Used by students to rest and get some fresh air."
     },
     {
       "id": "m3n4",
       "categoryId": "87b0",
-      "name": "Adidas",
-      "desc": "Athletic wear and performance gear"
+      "name": "MBA Eng.",
+      "desc": "MBA Eng., used by various department of students."
     },
     {
       "id": "n4o5",
       "categoryId": "52f1",
-      "name": "Primark",
-      "desc": "Affordable fashion for the whole family"
+      "name": "PHINMA AVE",
+      "desc": "Goes through the school, usually used to get around school."
     },
     {
       "id": "p6q7",
-      "categoryId": "87b0",
-      "name": "H&M",
+      "categoryId": "17b0",
+      "name": "MBA Hall",
       "desc": "Fashion and quality at the best price"
     },
     {
       "id": "q7r8",
-      "categoryId": "87b0",
-      "name": "Vans",
-      "desc": "Authentic skateboarding footwear and apparel"
-    },
-    {
-      "id": "r8s9",
       "categoryId": "e928",
-      "name": "Starbucks",
-      "desc": "Your favorite brews and snacks"
-    },
-    {
-      "id": "s9t0",
-      "categoryId": "52f1",
-      "name": "7-Eleven",
-      "desc": "Convenience store for your needs"
-    },
-    {
-      "id": "t0u1",
-      "categoryId": "87b0",
-      "name": "Victoria's Secret",
-      "desc": "Exquisite lingerie, sleepwear, and beauty products"
-    },
-    {
-      "id": "u1v2",
-      "categoryId": "d21e",
-      "name": "Pandora",
-      "desc": "Customizable charm bracelets, rings, and more"
-    },
-    {
-      "id": "v2w3",
-      "categoryId": "87b0",
-      "name": "Foot Locker",
-      "desc": "The latest in athletic footwear and apparel"
-    },
-    {
-      "id": "w3x4",
-      "categoryId": "52f1",
-      "name": "Pharmacy",
-      "desc": "Prescription drugs, health products, and wellness advice"
-    },
-    {
-      "id": "x4y5",
-      "categoryId": "a191",
-      "name": "GameStop",
-      "desc": "Video games, consumer electronics, and gaming merchandise retailer"
-    },
-    {
-      "id": "y5z6",
-      "categoryId": "87b0",
-      "name": "Claire's",
-      "desc": "Accessories and jewelry for young girls and teenagers"
-    },
-    {
-      "id": "z6a7",
-      "categoryId": "52f1",
-      "name": "Tobacco Shop",
-      "desc": "Tobacco products and smoking accessories"
-    },
-    {
-      "id": "a7b8",
-      "categoryId": "52f1",
-      "name": "Sephora",
-      "desc": "Skincare, cosmetics, and fragrances"
-    },
-    {
-      "id": "b8c9",
-      "categoryId": "52f1",
-      "name": "PetSmart",
-      "desc": "Everything for your pet's needs, from food to grooming"
-    },
-    {
-      "id": "c9d0",
-      "categoryId": "58a9",
-      "name": "Barbershop",
-      "desc": "Classic and contemporary haircuts"
-    },
-    {
-      "id": "d9d0",
-      "categoryId": "d21e",
-      "name": "Svarovski",
-      "desc": "Fine crystal jewelry and accessories"
-    },
-    {
-      "id": "ab12",
-      "categoryId": "17b0",
-      "name": "East Wing Toilet",
-      "desc": ""
-    },
-    {
-      "id": "ac12",
-      "categoryId": "17b0",
-      "name": "North Wing Toilet",
-      "desc": ""
-    },
-    {
-      "id": "ac13",
-      "categoryId": "e753",
-      "name": "Entrance",
-      "desc": ""
+      "name": "Riverside Bldg",
+      "desc": "Building used by Medical Students"
     }
   ],
   "categories": [
     {
       "id": "52f1",
-      "name": "Retail"
+      "name": "Avenue"
     },
     {
       "id": "e928",
-      "name": "Food"
+      "name": "Department Building "
     },
     {
       "id": "58a9",
-      "name": "Services"
+      "name": " "
     },
     {
       "id": "16be",
-      "name": "Health & Beauty"
+      "name": " "
     },
     {
       "id": "d21e",
-      "name": "Luxury Goods"
+      "name": "GYM Area"
     },
     {
       "id": "a191",
-      "name": "Electronics"
+      "name": "Old Stage "
     },
     {
       "id": "87b0",
-      "name": "Fashion"
+      "name": "Hall"
     },
     {
       "id": "17b0",
-      "name": "Sanitary"
+      "name": "Others"
     },
     {
       "id": "e753",
-      "name": "Entrace"
+      "name": " "
     }
   ]
 }

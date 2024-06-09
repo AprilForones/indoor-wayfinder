@@ -6,111 +6,144 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
   return (
     <g id="Objects">
       <path
-        id="Adidas"
+        id="FrontEntrance"
         className={`${className} object`}
-        d="M558.987 911.04l116.848.003-1.024 114.297-116.619.503.795-114.803z"
+       d="M8.402 149.554H35.597V317.432H8.402z"
         onClick={handleObjectClick}
       />
       <path
-        id="Nike"
+        id="BASIC ED BLDG"
         className={`${className} object`}
-        d="M430.273 910.876l120.253.333-1.054 114.46-119.468.792.269-115.585z"
+         d="M69.966 19.326H127.54299999999999V124.71100000000001H69.966z"
         onClick={handleObjectClick}
       />
       <path
-        id="McShark"
+        id="GYMNASIUM"
         className={`${className} object`}
-        d="M303.324 910.876l120.253.333-2.042 115.252-118.443.698.232-116.283z"
+       d="M188.217 18.791H325.299V125.816H188.217z"
         onClick={handleObjectClick}
       />
       <path
-        id="Zara"
+        id="VEHICLE PARKING"
         className={`${className} object`}
-        d="M172.029 911.04l122.833-.164-.243 116.283-122.709.667.119-116.786z"
+        d="M68.053 142.307H153.667V219.84199999999998H68.053z"
         onClick={handleObjectClick}
       />
       <path
-        id="Primark"
+         id="PHINMA AVE"
         className={`${className} object`}
-        d="M684.126 911.04l123.189.003-1.08 114.297-122.947.503.838-114.803z"
+        d="M186.472 141.144H336.674V218.679H186.472z"
         onClick={handleObjectClick}
       />
       <path
-        id="Svarovski"
+        id="PHINMA FOREST"
         className={`${className} object`}
-        d="M815.849 911.04l124.416.003-1.091 114.297-124.171.503.846-114.803z"
+         d="M187.037 279.761H336.24V418.745H187.037z"
         onClick={handleObjectClick}
       />
       <path
-        id="H&M"
+        id="CHS BLDG"
         className={`${className} object`}
-        d="M948.369 911.04l125.087.003-1.097 112.234-124.841.494.851-112.731z"
+        d="M134.024 18.326H183.118V125.9H134.024z"
         onClick={handleObjectClick}
       />
       <path
-        id="MediaMarkt"
+        id="Riverside Bldg"
         className={`${className} object`}
-        d="M492.345 554.188l478.43 1.477.269 286.743-478.664-.017-.035-288.203z"
+        d="M393.399 12.274H480.998V102.465H393.399z"
         onClick={handleObjectClick}
       />
       <path
-        id="Sephora"
+        id="STUDENT PLAZA"
         className={`${className} object`}
-        d="M978.726 555.123l99.437 1.533-.111 286.383-99.487-.075.161-287.841z"
+         d="M187.037 212.767H336.24V279.193H187.037z"
         onClick={handleObjectClick}
       />
       <path
-        id="Levi's"
+        id="NORTH HALL"
         className={`${className} object`}
-        d="M384.429 554.004l98.751.437.026 89.317-98.782.047.005-89.801z"
+         d="M123.292 418.825H360.158V460.93399999999997H123.292z"
         onClick={handleObjectClick}
       />
       <path
-        id="Vans"
+        id="MBA Eng."
         className={`${className} object`}
-        d="M384.371 652.277l98.752.081.078 87-98.883-.015.053-87.066z"
+         d="M329.149 11.556H391.236V72.625H329.149z"
+        onClick={handleObjectClick}
+      />
+       <path
+        id="MBA Eng."
+        className={`${className} object`}
+         d="M338.317 71.303H362.745V132.372H338.317z"
         onClick={handleObjectClick}
       />
       <path
-        id="Starbucks"
+        id="MBA Hall"
         className={`${className} object`}
-        d="M384.263 747.018l98.933.057-.159 95.586-98.747-.047-.027-95.596z"
+       d="M338.223 133.774H362.651V194.84300000000002H338.223z"
+        onClick={handleObjectClick}
+      />
+       <path
+        id="MBA Hall"
+        className={`${className} object`}
+       d="M337.911 196.016H362.339V220.611H337.911z"
+        onClick={handleObjectClick}
+      />
+       <path
+        id="MBA Hall"
+        className={`${className} object`}
+       d="M337.287 220.676H370.661V298.202H337.287z"
+        onClick={handleObjectClick}
+      />
+       <path
+        id="MBA Hall"
+        className={`${className} object`}
+       d="M337.911 299.021H362.339V382.57300000000004H337.911z"
         onClick={handleObjectClick}
       />
       <path
-        id="KFC"
+        id="OP"
         className={`${className} object`}
-        d="M696.664 238.508l171.452-.046.021 232.906-171.458-.113-.015-232.747z"
+        d="M74.59 242.987H91.273V262.45H74.59z"
         onClick={handleObjectClick}
       />
       <path
-        id="McDonald's"
+        id="FVR BLDG"
         className={`${className} object`}
-        d="M935.02 239.647l171.451-.046.022 232.493-171.625.071.151-232.518z"
+         d="M74.894 216.648H152.05200000000002V242.367H74.894z"
         onClick={handleObjectClick}
       />
       <path
-        id="Rolex"
+        id="CSDL/ITS BLDG"
         className={`${className} object`}
-        d="M455.6 246.006l179.653-.037.12 104.876-179.822-.036.05-104.803z"
+        d="M39.046 184.327H69.334V250.03199999999998H39.046z" 
         onClick={handleObjectClick}
       />
       <path
-        id="Louis Vuitton"
+        id="CMA BLDG"
         className={`${className} object`}
-        d="M455.473 359.466l179.713-.037.126 111.555-179.919-.293.08-111.225z"
+         d="M72.661 287.848H149.26999999999998V412.552H72.661z"
         onClick={handleObjectClick}
       />
       <path
-        id="Chanel"
+        id="Automative Bldg"
         className={`${className} object`}
-        d="M288.551 245.905l158.26-.05.1 104.876-158.41-.023.05-104.803z"
+         d="M71.073 418.219H116.627V461.638H71.073z"
         onClick={handleObjectClick}
       />
-      <path
-        id="Gucci"
+       <ellipse
+      id="ATRIUM"
+       cx={71.4} 
+       cy={275.216} 
+       rx={2.996} 
+       ry={2.809} 
         className={`${className} object`}
-        d="M288.483 359.374l158.26-.059.095 111.54-158.409-.018.054-111.463z"
+        onClick={handleObjectClick}
+      /> 
+      {/* <path
+        id="ATRIUM"
+        className={`${className} object`}
+        d="M6.911 125.966H341.295V143.519H6.911z"
         onClick={handleObjectClick}
       />
       <path
@@ -192,14 +225,14 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
         onClick={handleObjectClick}
       />
       <ellipse
-        id="Entrance"
-        cx={1157.655}
-        cy={1072.459}
-        rx={57}
-        ry={57}
+      id="Entrance"
+       cx={71.4} 
+       cy={275.216} 
+       rx={2.996} 
+       ry={2.809} 
         className={`${className} object`}
         onClick={handleObjectClick}
-      />
+      /> */}
     </g>
   );
 }
